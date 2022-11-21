@@ -1,0 +1,19 @@
+.headers {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 15px;
+  margin-bottom: 15px;
+}
+
+.type {
+  width: 20%;
+}
+
+.description {
+  width: 50%;
+}
+
+.time {
+  width: 20%;
+}

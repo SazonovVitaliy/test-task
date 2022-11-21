@@ -1,0 +1,29 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background: lightgray;
+  border-radius: 15px;
+  box-shadow: 10px 10px 10px grey;
+  padding-left: 15px;
+  margin-bottom: 15px;
+}
+
+.button {
+  border: none;
+  background: lightgray;
+  color: grey;
+  font-size: 25px;
+}
+
+.type {
+  width: 20%;
+}
+
+.description {
+  width: 50%;
+}
+
+.time {
+  width: 20%;
+}
